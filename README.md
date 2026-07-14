@@ -1,7 +1,6 @@
 # Nmap-Network-Reconnaissance-Lab
 <img width="857" height="272" alt="Screenshot 2026-07-14 222806" src="https://github.com/user-attachments/assets/4be38f19-81b1-4c59-ab90-ca5bdce315d9" />
 
-# Nmap Network Reconnaissance Lab
 
 ## Project Overview
 
